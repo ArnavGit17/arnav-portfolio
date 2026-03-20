@@ -1,56 +1,260 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ARNAV TRIPATHI — GitHub Profile README                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&height=300&section=header&text=ARNAV%20TRIPATHI&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DevOps%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=58" width="100%"/>
+
 <div align="center">
 
-<!-- HERO SECTION -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=&fontSize=0" width="100%"/>
-
 <br>
 
 <a href="https://arnav-portfolio-iota.vercel.app/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=ARNAV+TRIPATHI" alt="Name" />
-</a>
-
-<br>
-
-<a href="https://arnav-portfolio-iota.vercel.app/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=AI+Engineer+%E2%80%A2+Full+Stack+Developer+%E2%80%A2+DevOps+Enthusiast;Building+intelligent+systems+that+scale+%E2%80%94+from+model+to+metal;Turning+research+papers+into+production+pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=%F0%9F%94%AE+From+Research+Papers+to+Production+Pipelines;%F0%9F%9A%80+Building+Systems+That+Think+and+Scale;%E2%9A%A1+Model+to+Metal+%E2%80%94+I+Own+the+Full+Stack;%F0%9F%94%A5+Shipping+AI+That+Actually+Works" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- SOCIAL BADGES -->
+<a href="https://arnav-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arnav-tripathi-174150197"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;&nbsp;
+<a href="https://x.com/TripathiAr96898"><img src="https://img.shields.io/badge/X-58A6FF?style=for-the-badge&logo=x&logoColor=0d1117"/></a>&nbsp;&nbsp;
+<a href="mailto:arnavkumar1711@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>&nbsp;&nbsp;
+<a href="https://github.com/ArnavGit17"><img src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=0d1117"/></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230d1117.svg?style=for-the-badge&logo=firefox&logoColor=58A6FF)](https://arnav-portfolio-iota.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/arnav-tripathi-174150197)
-[![Twitter](https://img.shields.io/badge/X_(Twitter)-%230d1117.svg?style=for-the-badge&logo=x&logoColor=58A6FF)](https://x.com/TripathiAr96898)
-[![Email](https://img.shields.io/badge/Email-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:arnavkumar1711@gmail.com)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ArnavGit17&style=flat-square&color=58A6FF&labelColor=0d1117&label=Profile+Views" alt="Profile Views" />
+
+</div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%3E_%20ABOUT_ME-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+
 </div>
 
 <br>
 
-<!-- ABOUT SECTION -->
-
 <div align="center">
 
-### `> whoami`
+```js
+const arnav = {
+    location:  "Mumbai, India",
+    education: "B.Tech in Electronics & Computer Science (3rd Year)",
+    roles:     ["AI/ML Engineer", "Full Stack Developer", "DevOps Enthusiast"],
+    
+    currentlyObsessedWith: [
+        "LLMs & Transformer Architectures",
+        "Vector Search with FAISS",
+        "Kubernetes at Scale",
+        "Building AI that survives production"
+    ],
+    
+    philosophy: "If it's not deployed, it's just a Jupyter notebook."
+};
+```
 
 </div>
 
 <div align="center">
+<br>
+<i>"I don't just train models — I build the infrastructure they run on.<br>
+From gradient descent to load balancers, I think in full systems."</i>
+<br><br>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              TECH STACK                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%3E_%20TECH_ARSENAL-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+
+<br><br>
+
+<!-- LANGUAGES -->
+
+<img src="https://img.shields.io/badge/LANGUAGES-161b22?style=flat-square&labelColor=161b22" />
+
+<br><br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash&theme=dark" />
+</a>
+
+<br>
+
+![SQL](https://img.shields.io/badge/SQL-58A6FF?style=flat-square&logo=postgresql&logoColor=0d1117)
+
+<br><br>
+
+<!-- FRONTEND -->
+
+<img src="https://img.shields.io/badge/FRONTEND-161b22?style=flat-square&labelColor=161b22" />
+
+<br><br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite&theme=dark" />
+</a>
+
+<br><br>
+
+<!-- BACKEND -->
+
+<img src="https://img.shields.io/badge/BACKEND-161b22?style=flat-square&labelColor=161b22" />
+
+<br><br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+</a>
+
+<br>
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-58A6FF?style=flat-square&logo=swagger&logoColor=0d1117)
+
+<br><br>
+
+<!-- AI / ML -->
+
+<img src="https://img.shields.io/badge/AI_%2F_ML-161b22?style=flat-square&labelColor=161b22" />
+
+<br><br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</a>
+
+<br>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=0d1117)
+
+<br><br>
+
+<!-- DATABASES -->
+
+<img src="https://img.shields.io/badge/DATABASES-161b22?style=flat-square&labelColor=161b22" />
+
+<br><br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,redis&theme=dark" />
+</a>
+
+<br><br>
+
+<!-- DEVOPS & CLOUD ★ -->
+
+<img src="https://img.shields.io/badge/★_DEVOPS_%26_CLOUD_★-58A6FF?style=flat-square&labelColor=0d1117" />
+
+<br><br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux,nginx,vercel,netlify,git&theme=dark" />
+</a>
+
+<br>
+
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<br><br>
+
+<!-- TOOLS -->
+
+<img src="https://img.shields.io/badge/TOOLS-161b22?style=flat-square&labelColor=161b22" />
+
+<br><br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         CURRENTLY EXPLORING                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%3E_%20CURRENTLY_EXPLORING-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+
+</div>
+
+<br>
+
+<div align="center">
 <table>
 <tr>
-<td>
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/🧠_AI_%2F_ML-0d1117?style=for-the-badge&labelColor=0d1117" />
+
+<br><br>
 
 ```
-Location  :  Mumbai, India
-Education :  B.Tech ECE (3rd Year)
-Focus     :  AI/ML × Full Stack × DevOps
-Mission   :  Build systems that think and scale
+Transformer Architectures
+LLM Fine-Tuning & RLHF
+RAG Pipelines (FAISS)
+Semantic Search Systems
+Prompt Engineering
+```
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/☁️_DEVOPS-0d1117?style=for-the-badge&labelColor=0d1117" />
+
+<br><br>
+
+```
+Container Orchestration
+Infrastructure as Code
+CI/CD Automation
+Cloud Architecture (AWS)
+Monitoring & Observability
+```
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/⚡_SYSTEMS-0d1117?style=for-the-badge&labelColor=0d1117" />
+
+<br><br>
+
+```
+Distributed Systems
+Event-Driven Architecture
+High-Throughput Pipelines
+Microservices Design
+Scalability Patterns
 ```
 
 </td>
@@ -60,218 +264,54 @@ Mission   :  Build systems that think and scale
 
 <br>
 
-<div align="center">
-
-> I don't just build models — I build the infrastructure they run on.
-> From training loops to deployment pipelines, I own the full stack.
-> Currently obsessed with LLMs, vector search, and making Kubernetes
-> do exactly what I want.
-
-</div>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         DEVOPS MINDSET                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `> tech_stack --verbose`
+<img src="https://img.shields.io/badge/-%3E_%20DEVOPS_MINDSET-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+
+<br><br>
+
+```
+                    ┌─────────────────────────────────────────────────────┐
+                    │                                                     │
+                    │     CODE ──→ TEST ──→ BUILD ──→ DEPLOY ──→ SCALE   │
+                    │      │                                       │      │
+                    │      └──── MONITOR ←── OBSERVE ←── SERVE ←──┘      │
+                    │                                                     │
+                    └─────────────────────────────────────────────────────┘
+```
 
 <br>
 
-#### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-%230d1117.svg?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%230d1117.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%230d1117.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![C++](https://img.shields.io/badge/C++-%230d1117.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-%230d1117.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Bash](https://img.shields.io/badge/Bash-%230d1117.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-<br>
-
-#### 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-%230d1117.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%230d1117.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![React](https://img.shields.io/badge/React-%230d1117.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%230d1117.svg?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
-
-<br>
-
-#### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-%230d1117.svg?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-%230d1117.svg?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-%230d1117.svg?style=for-the-badge&logo=fastapi&logoColor=009688)
-![REST API](https://img.shields.io/badge/REST_APIs-%230d1117.svg?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-
-<br>
-
-#### 🧠 AI / ML
-
-![NumPy](https://img.shields.io/badge/NumPy-%230d1117.svg?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-%230d1117.svg?style=for-the-badge&logo=pandas&logoColor=150458)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%230d1117.svg?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%230d1117.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-%230d1117.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![FAISS](https://img.shields.io/badge/FAISS-%230d1117.svg?style=for-the-badge&logo=meta&logoColor=0467DF)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-%230d1117.svg?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-
-<br>
-
-#### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%230d1117.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230d1117.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Firebase](https://img.shields.io/badge/Firebase-%230d1117.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Redis](https://img.shields.io/badge/Redis-%230d1117.svg?style=for-the-badge&logo=redis&logoColor=DC382D)
-
-<br>
-
-#### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-%230d1117.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%230d1117.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%230d1117.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![AWS](https://img.shields.io/badge/AWS-%230d1117.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-%230d1117.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-%230d1117.svg?style=for-the-badge&logo=nginx&logoColor=009639)
-![Git](https://img.shields.io/badge/Git-%230d1117.svg?style=for-the-badge&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-%230d1117.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-
-<br>
-
-#### 🧰 Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-%230d1117.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-%230d1117.svg?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-%230d1117.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- WHAT I'M UP TO -->
-
-<div align="center">
-
-### `> current_status`
-
-</div>
-
-<br>
-
-<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-<div align="center">
-
-**🚀 Currently Exploring**
-
-</div>
-
-```yaml
-AI/ML:
-  - Transformer architectures & LLM fine-tuning
-  - Vector databases & semantic search (FAISS)
-  - RAG pipelines for production systems
-
-DevOps:
-  - Container orchestration with K8s
-  - Infrastructure as Code patterns
-  - CI/CD pipeline optimization
-
-Systems:
-  - Distributed system design
-  - Event-driven architectures
-  - High-throughput data pipelines
-```
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**🧠 Building & Shipping**
-
-</div>
-
-```yaml
-Focus Areas:
-  - AI-powered applications that solve
-    real problems, not toy demos
-  - Full-stack systems where the model
-    meets the deployment pipeline
-  - Scalable backends that don't flinch
-    under load
-
-Philosophy:
-  - Ship fast, measure everything,
-    iterate relentlessly
-  - Every model deserves a proper
-    CI/CD pipeline
-  - If it's not in production,
-    it's just a notebook
-```
+**Every commit triggers a pipeline.**<br>
+**Every pipeline produces a container.**<br>
+**Every container runs in an orchestrated cluster.**<br>
+**Every cluster is monitored, auto-scaled, and self-healing.**<br><br>
+*Automate what repeats. Monitor what matters. Scale what works.*
 
 </td>
 </tr>
 </table>
-</div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- DEVOPS MINDSET -->
-
-<div align="center">
-
-### `> devops_mindset --explain`
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   Code  →  Test  →  Build  →  Container  →  Deploy  →  Monitor    │
-│                                                                     │
-│   I think in pipelines.                                            │
-│   Every commit triggers a build. Every build produces an artifact. │
-│   Every artifact lands in a container. Every container scales.     │
-│                                                                     │
-│   Automate what repeats. Monitor what matters. Scale what works.   │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-`Docker` · `Kubernetes` · `GitHub Actions` · `AWS EC2/S3` · `Nginx` · `Linux` · `Vercel`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -281,32 +321,103 @@ Philosophy:
 
 <br>
 
-<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         PROJECTS / FOCUS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `> git stats --all`
+<img src="https://img.shields.io/badge/-%3E_%20BUILDING_%26_SHIPPING-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 <br>
+
+### 🧠 AI-Powered Applications
+
+<br>
+
+Building intelligent systems beyond<br>
+Jupyter — apps with real users,<br>
+real data, and real uptime SLAs.<br>
+**LLMs + Vector Search + Production Infra.**
+
+<br>
+
+</td>
+<td width="50%" align="center">
+
+<br>
+
+### ☁️ Scalable Full-Stack Systems
+
+<br>
+
+End-to-end ownership from React frontends<br>
+to FastAPI backends to K8s clusters.<br>
+Designing systems that handle<br>
+**growth without breaking a sweat.**
+
+<br>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            GITHUB STATS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%3E_%20GITHUB_ANALYTICS-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+
+<br><br>
+
+<!-- TROPHIES -->
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=ArnavGit17&theme=darkhub&no-frame=true&no-bg=true&column=-1&margin-w=15" width="100%" alt="Trophy" />
+</a>
+
+<br><br>
+
+<!-- STATS + LANGUAGES SIDE BY SIDE -->
 
 <a href="https://github.com/ArnavGit17">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArnavGit17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArnavGit17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb&text_color=8B949E&ring_color=58A6FF&count_private=true" alt="GitHub Stats"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ArnavGit17">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavGit17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br><br>
 
+<!-- STREAK STATS -->
+
 <a href="https://github.com/ArnavGit17">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavGit17&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak Stats" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavGit17&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="700" alt="Streak Stats"/>
 </a>
 
 <br><br>
 
+<!-- ACTIVITY GRAPH -->
+
 <a href="https://github.com/ArnavGit17">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavGit17&bg_color=0d1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=161b22&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavGit17&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </a>
 
 <br><br>
@@ -327,75 +438,44 @@ Philosophy:
 
 <br>
 
-<!-- GROWTH PHILOSOPHY -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                       GROWTH PHILOSOPHY                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `> cat growth_philosophy.md`
+<img src="https://img.shields.io/badge/-%3E_%20GROWTH_PHILOSOPHY-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
 <table>
 <tr>
 <td>
 
 ```
-I don't chase trends — I chase depth.
+I don't collect frameworks. I collect understanding.
 
-The best engineers I admire aren't the ones who know every
-framework. They're the ones who understand why systems break
-at 3 AM and how to make sure they don't.
+The engineers I look up to aren't the ones with the longest
+tool lists — they're the ones who can debug a distributed 
+system at 3 AM with nothing but logs and first principles.
 
-I measure growth not by commits, but by the complexity of
-problems I can hold in my head. Every month, I want to be
-dangerous in one more domain.
+I measure my growth by the complexity of problems I can 
+decompose. Not by stars, not by streaks — by the gap between
+the problem I couldn't solve last month and the one I'm 
+solving today.
 
-The gap between "I built a model" and "I shipped a model
-that serves 10K requests/sec" — that's where I live.
+Every week, I want to be dangerous in one more domain.
+Every month, I want to ship something that wasn't possible
+the month before.
+
+The distance between "I trained a model" and "I serve 10K 
+inferences/sec with 99.9% uptime" — that's where I live.
+That's where the real engineering happens.
 ```
 
 </td>
 </tr>
 </table>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- VISION -->
-
-<div align="center">
-
-### `> cat vision.md`
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   SHORT TERM   Build AI systems that work beyond Jupyter.   │
-│                Ship models with real infrastructure.         │
-│                                                              │
-│   MID TERM     Architect scalable ML platforms.             │
-│                Own the full lifecycle — train to serve.      │
-│                                                              │
-│   LONG TERM    Build AI infrastructure that powers the      │
-│                next generation of intelligent products.      │
-│                                                              │
-│   ALWAYS       Stay curious. Stay building. Stay shipping.  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
@@ -405,49 +485,131 @@ that serves 10K requests/sec" — that's where I live.
 
 <br>
 
-<!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              VISION                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `> connect --with-me`
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/arnav--portfolio-%230d1117.svg?style=for-the-badge&logo=firefox&logoColor=58A6FF&labelColor=0d1117)](https://arnav-portfolio-iota.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/arnav--tripathi-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117)](https://www.linkedin.com/in/arnav-tripathi-174150197)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/ArnavGit17-%230d1117.svg?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117)](https://github.com/ArnavGit17)
-&nbsp;
-[![Email](https://img.shields.io/badge/arnavkumar1711-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0d1117)](mailto:arnavkumar1711@gmail.com)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/@TripathiAr96898-%230d1117.svg?style=for-the-badge&logo=x&logoColor=58A6FF&labelColor=0d1117)](https://x.com/TripathiAr96898)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- SIGNATURE -->
-
-<div align="center">
-
-<br>
-
-```
-"The best time to plant a tree was 20 years ago. The second best time is now.
-The best time to deploy it in a container was yesterday."
-```
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ArnavGit17&style=for-the-badge&color=0d1117&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/-%3E_%20VISION-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%"/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+<br>
+
+**`NOW`**
+
+<br>
+
+Build AI systems that<br>
+survive beyond notebooks.<br>
+Ship models with real<br>
+infrastructure underneath.
+
+<br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+
+**`NEXT`**
+
+<br>
+
+Architect end-to-end ML<br>
+platforms. Own the full<br>
+lifecycle — from training<br>
+to serving at scale.
+
+<br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+
+**`NORTH STAR`**
+
+<br>
+
+Build AI infrastructure<br>
+that powers the next<br>
+generation of intelligent<br>
+products. At scale. For real.
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+*Stay curious. Stay building. Stay shipping.*
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           CONNECT                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%3E_%20LET'S_CONNECT-58A6FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+
+<br><br>
+
+<a href="https://arnav-portfolio-iota.vercel.app/">
+<img src="https://img.shields.io/badge/arnav--portfolio-%230d1117.svg?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/arnav-tripathi-174150197">
+<img src="https://img.shields.io/badge/arnav--tripathi-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+</a>
+&nbsp;
+<a href="https://github.com/ArnavGit17">
+<img src="https://img.shields.io/badge/ArnavGit17-%230d1117.svg?style=for-the-badge&logo=github&logoColor=58A6FF" />
+</a>
+&nbsp;
+<a href="mailto:arnavkumar1711@gmail.com">
+<img src="https://img.shields.io/badge/arnavkumar1711-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+</a>
+&nbsp;
+<a href="https://x.com/TripathiAr96898">
+<img src="https://img.shields.io/badge/@TripathiAr96898-%230d1117.svg?style=for-the-badge&logo=x&logoColor=58A6FF" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           SIGNATURE                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br>
+
+```
+"The best way to predict the future is to deploy it."
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,50:1f6feb,100:0d1117&height=150&section=footer" width="100%"/>
 
 </div>
